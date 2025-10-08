@@ -7,9 +7,9 @@ import os
 import calendar
 from datetime import datetime
 
-st.set_page_config(page_title="Smart Power Scheduler", page_icon="🔋")
+st.set_page_config(page_title="Smart Energy Advisor", page_icon="🔋")
 
-st.title("🔋 Smart Power Scheduler (SDG 7: Affordable and Clean Energy)")
+st.title("🔋 Smart Energy Advisor (SDG 7: Affordable and Clean Energy)")
 st.write("""
 This app predicts efficient electricity usage periods 
 based on real or simulated hourly data over multiple days.
